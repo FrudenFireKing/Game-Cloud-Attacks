@@ -1,5 +1,5 @@
 # COSMIX — Облако атакует
-[постер игры](banner.png)
+![постер игры](banner.png)
 **An educational 2D pixel-art adventure about science, robotics, and space exploration.**
 
 **Tutor:** Fedor Gorbachev
