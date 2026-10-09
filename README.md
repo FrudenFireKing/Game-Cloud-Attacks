@@ -6,7 +6,7 @@
 
 **Student:** Kirill
 
-**Educational institution:** KiberOne International Programming School /
+**Educational institution:** KiberOne International Programming School
 
 **Русская версия ниже · English version below**
 
