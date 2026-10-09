@@ -16,11 +16,11 @@
 
 ### О проекте
 
-**Спутникс — «Облако атакует»** — образовательная 2D-игра в жанре научно-фантастического приключения, объединяющая исследование окружающей среды, робототехнику, спутниковые технологии и освоение космоса.
+**Спутникс — «Облако атакует»** — образовательная 2D-игра в жанре научно-фантастического приключения, объединяющая исследование окружающей среды, робототехнику, спутниковые технологии и освоение космоса, созданная по мотивам одноименного рассказа.
 
 Игрок присоединяется к команде юных исследователей, которые изучают необычные природные явления, управляют исследовательскими роверами, анализируют научные данные и решают задачи, требующие логики, планирования и быстрой реакции.
 
-Проект создаётся в рамках обучения программированию в KiberOne International Programming School. Его цель — превратить изучение разработки игр в практический процесс: от программирования игровых механик до построения интерактивных сцен и создания связного повествования.
+Проект создаётся в рамках обучения программированию в Международной Школе Программирования KiberOne с целью предоставить жюри SK Kids Challenge 2026 интересное и увлекательное решение кейса. Тем самым мы превратили изучение разработки игр в практический процесс: от программирования игровых механик до построения интерактивных сцен и создания связного повествования, а также участие в Кейс-чемпионате.
 
 ### Основные направления
 
@@ -123,11 +123,10 @@
 
 ### About the Project
 
-**Sputnix — The Cloud Attacks** is an educational 2D pixel-art adventure that combines environmental exploration, robotics, satellite technology, and space science.
+**Sputnix — The Cloud Attacks** is an educational 2D pixel-art adventure that combines environmental exploration, robotics, satellite technology, and space science, based on the short story of the same name.
 
-Players join a team of young researchers investigating unusual natural phenomena, operating scientific rovers, analyzing research data, and solving challenges that require logical thinking, planning, and quick decision-making.
-
-The project is developed as part of programming education at KiberOne International Programming School. Its goal is to turn learning game development into a hands-on experience, covering everything from gameplay logic to interactive scenes and narrative design.
+The project is being developed as part of programming training at the KiberOne International Programming School, with the aim of providing the jury of the SK Kids Challenge 2016 with an interesting and engaging solution to the case. 
+In this way, we have turned the study of game development into a practical process: from programming game mechanics to building interactive scenes and creating a coherent narrative, as well as participating in the Case Championship.
 
 ### Core Themes
 
