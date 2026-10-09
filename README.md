@@ -1,4 +1,4 @@
-# COSMIX — Облако атакует
+# Спутникс — Облако атакует
 ![постер игры](banner.png)
 **An educational 2D pixel-art adventure about science, robotics, and space exploration.**
 
@@ -16,7 +16,7 @@
 
 ### О проекте
 
-**COSMIX — «Облако атакует»** — образовательная 2D-игра в жанре научно-фантастического приключения, объединяющая исследование окружающей среды, робототехнику, спутниковые технологии и освоение космоса.
+**Спутникс — «Облако атакует»** — образовательная 2D-игра в жанре научно-фантастического приключения, объединяющая исследование окружающей среды, робототехнику, спутниковые технологии и освоение космоса.
 
 Игрок присоединяется к команде юных исследователей, которые изучают необычные природные явления, управляют исследовательскими роверами, анализируют научные данные и решают задачи, требующие логики, планирования и быстрой реакции.
 
@@ -115,7 +115,7 @@
 
 ### Статус проекта
 
-COSMIX развивается как учебный игровой проект для конкурса SkChallenge 2026. Описанные главы и механики отражают концепцию повествования и игрового дизайна; доступность отдельных функций зависит от текущей версии игры.
+"Облако атакует" развивается как учебный игровой проект для конкурса SkChallenge 2026. Описанные главы и механики отражают концепцию повествования и игрового дизайна; доступность отдельных функций зависит от текущей версии игры.
 
 ---
 
@@ -123,7 +123,7 @@ COSMIX развивается как учебный игровой проект 
 
 ### About the Project
 
-**COSMIX — The Cloud Attacks** is an educational 2D pixel-art adventure that combines environmental exploration, robotics, satellite technology, and space science.
+**Sputnix — The Cloud Attacks** is an educational 2D pixel-art adventure that combines environmental exploration, robotics, satellite technology, and space science.
 
 Players join a team of young researchers investigating unusual natural phenomena, operating scientific rovers, analyzing research data, and solving challenges that require logical thinking, planning, and quick decision-making.
 
@@ -222,4 +222,4 @@ Development topics include:
 
 ### Project Status
 
-COSMIX is an evolving educational game development project for hackathon SkChallenge 2026. The chapters and gameplay mechanics described above represent the narrative and design concept; individual features may still be under development.
+"Cloud Attacks" is an evolving educational game development project for hackathon SkChallenge 2026. The chapters and gameplay mechanics described above represent the narrative and design concept; individual features may still be under development.
