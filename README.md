@@ -1,1 +1,223 @@
-Пролог: «Первое сентября» (обучение) Воссоздаёт события рассказа. Обучение базовым механикам: первый ровер, первый анализ пробы, первый сбой (провал под землю), обнаружение человека, рой гнуса. Завершается спасательной операцией и звонком в МЧС. Гриша получает первый уровень и доступ к лаборатории. Глава 1: «Подземные оазисы» МЧС просит команду обследовать «мёртвую зону» подробнее. Оказывается, под землёй — десятки живых оазисов, но система пещер нестабильна: мерзлота продолжает таять. Фарм-цель: составить полную карту подземных полостей с помощью «Зоркого» и бурящих роверов. Боссфайт: «Провал» — огромная карстовая воронка начинает расширяться, грозя поглотить три ровера одновременно. Эпизод в реальном времени: нужно отвести роверов по безопасным маршрутам, переключая спутники для удержания связи, пока Аврора рассчитывает устойчивые зоны. Это стратегический босс — не персонаж, а стихия. QTE-эпизод: один ровер начинает соскальзывать в расширяющуюся трещину. Серия быстрых нажатий: «заблокировать колёса» → «выдвинуть якорь» → «передать тяговое усилие от второго ровера». Ошибка — потеря ровера (но игру можно продолжить). Глава 2: «Рой» Новая локация — степи Южной Сибири, где спутники засекли перемещение гигантского роя саранчи. Угроза сельскохозяйственным районам. Фарм-цель: предсказать траекторию роя с помощью данных со спутников и феромонных ловушек на роверах. Нужно разложить ловушки в правильных точках карты — это мини-игра на логистику. Боссфайт: «Рой» — облако из миллионов насекомых, видимое на тепловой камере как гигантское светящееся пятно (отсылка к «облаку» из рассказа). Босс движется по карте, меняя направление. Игрок должен: Выстроить цепь роверов с феромонными ловушками, чтобы перенаправить рой. Запросить сеанс «Зоркого» для снимка роя сверху и расчёта плотности. Не дать рою достичь «зоны поражения» — сельскохозяйственных полей на краю карты. QTE-эпизод: ветер резко меняется, и рой разворачивается прямо на ровер с ловушкой. Нужно быстро: «активировать экстренный repellent» → «переключиться на резервный спутник» (связь рвётся из-за плотности роя) → «откатить ровер». Удачный QTE — рой обходит ловушку и попадает в коридор. Глава 3: «Сигнал» Университетская лаборатория получает странный радиосигнал с неопознанного источника в Арктике. Ваня подозревает, что это связно со «загадочной вспышкой радиации», которую он видел в ЦУПе. Фарм-цель: настроить приём через спутниковую группировку, триангулировать источник, отправить роверы через арктическую тундру. Новое: роверы работают в экстремальном холоде — энергия расходуется быстрее, сеансы связи короче, «Зоркий» нужен для сквозного радиолокационного сканирования льда. Боссфайт: «Радиопомеха» — кто-то (или что-то) целенаправленно глушит сигнал. Помеха усиливается при приближении роверов к источнику. Игрок должен маневрировать между зонами глушения, используя ретрансляцию через JuniX как «щит». Это пазл-босс: нужно выстроить цепочку спутников так, чтобы сигнал обходил зоны глушения. QTE-эпизод: Аврора перехватывает фрагмент сигнала и начинает декодировать. Внезапно — ответный сигнал направляет мощный импульс на ровер. Быстрая реакция: «отключить антенну» → «перевести ровер в режим радиомолчания» → «переключить на пассивный приём». Успех — запись фрагмента сигнала. Провал — ровер обесточен, нужно ждать перезагрузки. Сюжетный твист: источник сигнала — не инопланетяне, а автономная научная станция, оставленная 20 лет назад, чьи системы вышли из-под контроля. Но внутри неё — образцы почвы с аномальным составом, которые намекают на возможное внеземное происхождение. Открытие для следующей главы. Глава 4: «Тайга 2.0» Возвращение в «мёртвую зону», но теперь — с задачей биоремедиации. Подземные оазисы оказались жизнеспособными, и команда должна запустить процесс восстановления леса. Фарм-цель: разработать и применить коктейль из микроорганизмов и насекомых-санитаров, который разложит нефтяные токсины. Игрок комбинирует виды из своей базы данных — это крафтинговая мини-игра. Неправильная комбинация — вид гибнет, правильная — начинается восстановление. Управление экосистемой: после запуска биоремедиации нужно следить за балансом: хищники vs. фитофаги, влажность, температура почвы. Слишком много жуков-мертвоедов — они съедают всё и умирают. Слишком мало — токсины не разлагаются. Это лёгкий экосистемный симулятор. Боссфайт: «Цветение» — из-за быстрого восстановления почвы начинается неконтролируемое цветение сине-зелёных водорослей в подземных водоёмах. Они выделяют токсины, которые убивают всю работу. Босс — не враг, а дисбаланс: нужно сбалансировать экосистему, добавив конкурирующие виды и снизив влажность, пока «индекс цветения» не упадёт до нуля. Время ограничено. QTE-эпизод: пробоотборник ровера застревает в слое токсичного ила. Нужно: «реверс манипулятора» → «промывка струёй» → «экстренная откатка». Параллельно — Аврора предупреждает о превышении уровня сероводорода. Ещё один QTE: «включить вентиляцию ровера» → «поднять антенну» → «передать пробу». Успех — ценный образец с глубины. Провал — ровер отравлен, нужен ремонт. Глава 5: «Орбита» (финал) Команда получает официальный статус: университетский проект одобрен для экспериментов на орбитальной станции. Гриша впервые сталкивается с космическими технологиями напрямую. Фарм-цель: подготовить эксперимент с дрозофилами для орбитальной станции — подобрать питательную среду, температурный режим, программу наблюдения. Через JuniX нужно настроить непрерывный канал связи с орбитальным модулем. Боссфайт: «Гравитация» — при запуске эксперимента обнаруживается сбой в системе микрогравитации на станции. Экспериментальные камеры с дрозофилами начинают перегреваться. Игрок управляет ровером-манипулятором внутри станции (через спутниковую связь с задержкой сигнала!). Задержка в 2–3 секунды делает управление сложным. Нужно: добраться до терморегулятора, переключить резервный контур охлаждения, запечатать повреждённый отсек. Это босс на время с асимметричным управлением. QTE-финал: сигнал с станции пропадает в критический момент — спутник JuniX, ретранслирующий связь, уходит из зоны. У игрока есть 10 секунд: «переключиться на следующий спутник в группировке» → «синхронизировать канал» → «принять данные». Успех — эксперимент спасён, данные получены. Провал — эксперимент потерян, но доступна альтернативная концовка.
+# COSMIX — Облако атакует
+
+**An educational 2D pixel-art adventure about science, robotics, and space exploration.**
+
+**Tutor:** Fedor Gorbachev
+**Student:** Kirill
+**Educational institution:** KiberOne International Programming School
+
+**Русская версия ниже · English version below**
+
+---
+
+## 🇷🇺 Русская версия
+
+### О проекте
+
+**COSMIX — «Облако атакует»** — образовательная 2D-игра в жанре научно-фантастического приключения, объединяющая исследование окружающей среды, робототехнику, спутниковые технологии и освоение космоса.
+
+Игрок присоединяется к команде юных исследователей, которые изучают необычные природные явления, управляют исследовательскими роверами, анализируют научные данные и решают задачи, требующие логики, планирования и быстрой реакции.
+
+Проект создаётся в рамках обучения программированию в KiberOne International Programming School. Его цель — превратить изучение разработки игр в практический процесс: от программирования игровых механик до построения интерактивных сцен и создания связного повествования.
+
+### Основные направления
+
+* **Разработка игр:** игровые состояния, управление персонажем, интерфейсы и взаимодействие с объектами.
+* **Робототехника и автоматизация:** управление роверами, исследование труднодоступных территорий и выполнение научных задач.
+* **Наука и экология:** анализ проб, изучение экосистем, мониторинг природных угроз и восстановление окружающей среды.
+* **Космические технологии:** спутниковая связь, дистанционное зондирование, радиосигналы и эксперименты на орбите.
+* **Геймдизайн:** сюжетные главы, исследовательские задания, мини-игры, испытания на время и альтернативные исходы.
+
+### Сюжет и главы
+
+#### Пролог — «Первое сентября»
+
+Знакомство с игровым миром и базовыми механиками. Игрок управляет первым ровером, анализирует образцы, сталкивается с неожиданным провалом под землю и обнаруживает человека в опасной зоне. После встречи с роем гнуса команда проводит спасательную операцию и связывается с МЧС.
+
+Пролог знакомит игрока с исследовательским оборудованием, управлением ровером и основами взаимодействия с игровым миром.
+
+#### Глава 1 — «Подземные оазисы»
+
+Команда получает задание обследовать загадочную «мёртвую зону». Под землёй обнаруживаются живые оазисы, однако таяние вечной мерзлоты делает систему пещер нестабильной.
+
+**Ключевые задачи:** составить карту подземных полостей, исследовать территорию с помощью роверов и спутника «Зоркий», находить безопасные маршруты.
+
+**Кульминация:** расширяющаяся карстовая воронка угрожает сразу нескольким роверам. Игроку предстоит координировать их перемещение, поддерживать связь и принимать решения в условиях ограниченного времени.
+
+#### Глава 2 — «Рой»
+
+В степях Южной Сибири спутники фиксируют движение гигантского роя саранчи, угрожающего сельскохозяйственным территориям.
+
+**Ключевые задачи:** анализировать спутниковые данные, прогнозировать движение роя и размещать феромонные ловушки в стратегически важных точках.
+
+**Кульминация:** игрок выстраивает цепочку роверов, перенаправляет рой и использует данные дистанционного наблюдения, чтобы не допустить его продвижения к сельскохозяйственным полям.
+
+#### Глава 3 — «Сигнал»
+
+Университетская лаборатория обнаруживает загадочный радиосигнал из Арктики. Он может быть связан с необычным явлением, замеченным ранее в центре управления полётами.
+
+**Ключевые задачи:** определить источник сигнала, использовать спутниковую группировку для триангуляции, отправить роверы в арктическую тундру и адаптировать оборудование к экстремальному холоду.
+
+**Кульминация:** неизвестный источник создаёт радиопомехи. Игроку необходимо выстроить устойчивый канал связи, обходить зоны подавления и сохранить полученные данные.
+
+**Сюжетный поворот:** источник оказывается автономной научной станцией, оставленной около двадцати лет назад. Её системы вышли из-под контроля, а обнаруженные образцы почвы открывают новые вопросы о происхождении необычных явлений.
+
+#### Глава 4 — «Тайга 2.0»
+
+Команда возвращается в «мёртвую зону», чтобы восстановить повреждённую экосистему.
+
+**Ключевые задачи:** подбирать комбинации микроорганизмов и насекомых-санитаров для биоремедиации, изучать влияние различных видов на окружающую среду и поддерживать баланс экосистемы.
+
+**Кульминация:** ускоренное восстановление приводит к неконтролируемому цветению водорослей в подземных водоёмах. Игроку необходимо изменить условия среды и восстановить экологический баланс, прежде чем токсичное цветение уничтожит результаты работы.
+
+Глава делает акцент на взаимосвязи живых организмов, экологических рисках и последствиях вмешательства в природные системы.
+
+#### Глава 5 — «Орбита»
+
+Финал истории переносит команду на новый уровень: университетский проект получает возможность проводить эксперименты на орбитальной станции.
+
+**Ключевые задачи:** подготовить эксперимент с дрозофилами, подобрать условия наблюдения и обеспечить непрерывную связь с орбитальным модулем.
+
+**Кульминация:** неисправность системы микрогравитации приводит к перегреву экспериментальных камер. Игрок управляет ровером-манипулятором с учётом задержки сигнала, восстанавливает охлаждение и пытается сохранить эксперимент.
+
+В финальном испытании необходимо быстро переключить спутниковый канал, синхронизировать связь и получить данные со станции. Результат определяет исход эксперимента и доступную концовку.
+
+### Особенности игрового дизайна
+
+* Исследование нескольких типов локаций: подземные полости, степи, арктическая тундра, тайга и орбитальная станция.
+* Задания на сбор и анализ данных.
+* Управление исследовательскими роверами и спутниковыми каналами.
+* Стратегические испытания, основанные на природных явлениях и технических неисправностях.
+* QTE-эпизоды, в которых последовательность действий влияет на результат.
+* Сюжетное развитие, связывающее экологию, робототехнику и космические исследования.
+
+### Образовательная ценность
+
+Проект помогает применять навыки программирования на практике и знакомит с тем, как игровые системы объединяют программную логику, визуальные ресурсы, пользовательский ввод и сюжет.
+
+В процессе разработки можно изучать:
+
+* основы Python и Pygame;
+* обработку событий и управление игровым циклом;
+* проектирование функций и игровых состояний;
+* работу с изображениями, анимацией и интерфейсами;
+* организацию ресурсов и структуру проекта;
+* декомпозицию задач и итеративную разработку.
+
+### Технологии
+
+* **Python**
+* **Pygame**
+* **Git / GitHub**
+* **Pixel art и графические ресурсы**
+
+### Статус проекта
+
+COSMIX развивается как учебный игровой проект для конкурса SkChallenge 2026. Описанные главы и механики отражают концепцию повествования и игрового дизайна; доступность отдельных функций зависит от текущей версии игры.
+
+---
+
+## 🇬🇧 English Version
+
+### About the Project
+
+**COSMIX — The Cloud Attacks** is an educational 2D pixel-art adventure that combines environmental exploration, robotics, satellite technology, and space science.
+
+Players join a team of young researchers investigating unusual natural phenomena, operating scientific rovers, analyzing research data, and solving challenges that require logical thinking, planning, and quick decision-making.
+
+The project is developed as part of programming education at KiberOne International Programming School. Its goal is to turn learning game development into a hands-on experience, covering everything from gameplay logic to interactive scenes and narrative design.
+
+### Core Themes
+
+* **Game Development:** gameplay states, character movement, interfaces, and object interaction.
+* **Robotics and Automation:** rover control, remote exploration, and scientific missions.
+* **Science and Ecology:** sample analysis, ecosystem research, environmental monitoring, and ecological restoration.
+* **Space Technology:** satellite communications, remote sensing, radio signals, and orbital experiments.
+* **Game Design:** story-driven chapters, research objectives, mini-games, timed challenges, and alternative outcomes.
+
+### Story and Chapters
+
+#### Prologue — “September First”
+
+The player is introduced to the game world and its core mechanics. After operating the first rover and analyzing a sample, the team encounters a ground collapse and discovers a person in a dangerous area. Following an encounter with a swarm of biting insects, the team carries out a rescue operation and contacts emergency services.
+
+The prologue introduces rover controls, research equipment, and basic interactions with the environment.
+
+#### Chapter 1 — “Underground Oases”
+
+The team is assigned to investigate a mysterious dead zone. Beneath the surface, they discover living oases, but melting permafrost is making the underground cave system increasingly unstable.
+
+**Key objectives:** map underground cavities, explore the area using rovers and the Zorkiy satellite, and identify safe routes.
+
+**Climax:** an expanding sinkhole threatens several rovers at once. The player must coordinate their movements, maintain communications, and make strategic decisions under time pressure.
+
+#### Chapter 2 — “The Swarm”
+
+Satellites detect a massive locust swarm moving across the steppes of Southern Siberia, threatening nearby agricultural areas.
+
+**Key objectives:** analyze satellite data, predict the swarm's trajectory, and deploy pheromone traps at strategically selected locations.
+
+**Climax:** the player establishes a network of rovers, redirects the swarm, and uses remote-sensing data to prevent it from reaching agricultural fields.
+
+#### Chapter 3 — “The Signal”
+
+A university laboratory detects a mysterious radio signal originating in the Arctic. It may be connected to an unusual phenomenon previously observed at a mission control center.
+
+**Key objectives:** locate the signal source, use a satellite constellation for triangulation, deploy rovers across the Arctic tundra, and adapt equipment to extreme cold.
+
+**Climax:** an unknown source generates radio interference. The player must establish a reliable communication route, navigate interference zones, and preserve the collected data.
+
+**Story twist:** the source turns out to be an autonomous research station abandoned approximately twenty years earlier. Its systems have malfunctioned, and unusual soil samples found inside raise new questions about the origin of the phenomena.
+
+#### Chapter 4 — “Taiga 2.0”
+
+The team returns to the dead zone with a new mission: restore the damaged ecosystem.
+
+**Key objectives:** combine microorganisms and decomposer insects for bioremediation, study how different species affect the environment, and maintain ecological balance.
+
+**Climax:** rapid environmental recovery triggers uncontrolled algal blooms in underground reservoirs. The player must adjust environmental conditions and restore the ecosystem's balance before toxic blooms undermine the team's work.
+
+This chapter focuses on ecological interdependence, environmental risks, and the consequences of interventions in natural systems.
+
+#### Chapter 5 — “Orbit”
+
+In the final chapter, the team reaches a new milestone: a university research project is approved for experiments aboard an orbital station.
+
+**Key objectives:** prepare a fruit fly experiment, select appropriate observation conditions, and establish a continuous communication link with the orbital module.
+
+**Climax:** a malfunction in the station's microgravity system causes experimental chambers to overheat. The player operates a robotic rover with delayed controls, restores the backup cooling system, and attempts to save the experiment.
+
+During the final challenge, the player must switch satellite channels, synchronize communications, and retrieve the station's data. The outcome determines the experiment's fate and the available ending.
+
+### Gameplay and Design Highlights
+
+* Multiple environments, including underground caverns, steppes, Arctic tundra, taiga, and an orbital station.
+* Research missions focused on collecting and analyzing data.
+* Scientific rover control and satellite communication management.
+* Strategic encounters built around environmental hazards and technical failures.
+* Quick-time events in which action sequences influence mission outcomes.
+* A connected narrative bringing together ecology, robotics, and space exploration.
+
+### Educational Value
+
+The project provides a practical way to apply programming skills and explore how software logic, visual assets, user input, and narrative design work together in an interactive experience.
+
+Development topics include:
+
+* Python and Pygame fundamentals;
+* event handling and game loops;
+* functions and game-state management;
+* image rendering, animation, and interfaces;
+* asset organization and project structure;
+* task decomposition and iterative development.
+
+### Technology Stack
+
+* **Python**
+* **Pygame**
+* **Git / GitHub**
+* **Pixel art and visual assets**
+
+### Project Status
+
+COSMIX is an evolving educational game development project for hackathon SkChallenge 2026. The chapters and gameplay mechanics described above represent the narrative and design concept; individual features may still be under development.
