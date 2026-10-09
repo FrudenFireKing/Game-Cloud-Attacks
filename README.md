@@ -2,8 +2,10 @@
 ![постер игры](banner.png)
 **An educational 2D pixel-art adventure about science, robotics, and space exploration.**
 
-**Tutor:** Fedor Gorbachev /
-**Student:** Kirill /
+**Tutor:** Fedor Gorbachev
+
+**Student:** Kirill
+
 **Educational institution:** KiberOne International Programming School /
 
 **Русская версия ниже · English version below**
